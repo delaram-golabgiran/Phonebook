@@ -1,13 +1,12 @@
 # PhoneBook project
 
-Save Contact Phone Numbers
+Save Contact Phone Numbers (Python3)
 
 ## Installation
 
 to install requirements you can execute:
 
 ```bash
-python 3
 pip install -r requirement.txt
 ```
 
