@@ -1,22 +1,18 @@
+# PhoneBook project
 
-Import os
->> To use os command (I use windows commands)
+Save Contact Phone Numbers
 
-Impost pickle
->> To use write in a file
+## Installation
 
-Import termcolore
->>pip install termcolor
---------------------------------------------------------------
-Attention:
-Run this project in cmd, in file location:
-.\phonebook.py
+to install requirements you can execute:
 
-or in any IDE
-	_The "cls" (Clear command line) command does not work in IDE
---------------------------------------------------------------
-_Save Contact Function will be running after every change
---------------------------------------------------------------
-_In find option:
-you can find every contact with number search
---------------------------------------------------------------
+```bash
+python 3
+pip install -r requirement.txt
+```
+
+## Usage
+
+```
+python3 phonebook.py
+```
